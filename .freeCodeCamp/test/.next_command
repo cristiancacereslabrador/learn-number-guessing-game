@@ -191,3 +191,5 @@ git commit -m "test: 3"
 git branch -m master main
 ./number_guess.sh
 ./number_guess.sh
+clear
+./number_guess.sh
